@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "120008239421",
+    "project_id": "asaani-63444",
+    "storage_bucket": "asaani-63444.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120008239421:android:34dc423e50550b18853d54",
+        "android_client_info": {
+          "package_name": "com.example.asaani"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120008239421-mahjm154tv7fjrh6a7og9vm3rqps6e9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTYhnsIurYGyX2WQeXYeQJgOwY3-3iGjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120008239421-mahjm154tv7fjrh6a7og9vm3rqps6e9s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "120008239421-g1l3dbaj46387efbp5cgfdnv31m9jd9o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.asaani"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:120008239421:android:741e39fdf44ef081853d54",
+        "android_client_info": {
+          "package_name": "com.example.asaanidriver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "120008239421-mahjm154tv7fjrh6a7og9vm3rqps6e9s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTYhnsIurYGyX2WQeXYeQJgOwY3-3iGjs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "120008239421-mahjm154tv7fjrh6a7og9vm3rqps6e9s.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "120008239421-g1l3dbaj46387efbp5cgfdnv31m9jd9o.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.asaani"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
